@@ -11,6 +11,25 @@ openprojects.bryancera.com.
 CERA-1 systems have been utilized world-wide by artists, designers and researchers in tandem with research 
 in contemporary craft, digital fabrication and architecture. 
 
+***The following is a tentative schedule for releases for this project:***
+
+March, 2020:
+[CERA-1 Clay Extruder] - CAD files, bill of materials, assembly instructions
+
+April, 2020:
+[CERA-1 Clay Extruder] - instructions for extruder use and mainatanance 
+
+May, 2020:
+[CERA-1 Electronics] - instructions for configuring a Duet 2 Wifi for use with the CERA-1
+
+June, 2020:
+[CERA-1 Printer Framework] - CAD files, bill of materials, assembly instructions
+
+July, 2020:
+[CERA-1 Printer Framework] - instructions for printer framework use and mainatanance
+
+- - -
+
 Learn more about the CERA-1 at the following links:
 http://www.bryancera.com/cerastruder
 http://openprojects.bryancera.com
