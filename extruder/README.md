@@ -5,3 +5,5 @@
 <b>STL.zip </b>................... STLs for all 3D-printed components in the extruder (including 2 metal parts)
 <br>
 <b>extruder_assembly.stp </b>..... STEP assembly model including all extruder components
+<br>
+<b>extruder_BOM.xlsx </b>......... Extruder Bill of Materials
