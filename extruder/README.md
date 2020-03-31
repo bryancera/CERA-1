@@ -7,3 +7,5 @@
 <b>extruder_assembly.stp </b>..... STEP assembly model including all extruder components
 <br>
 <b>extruder_BOM.xlsx </b>......... Extruder Bill of Materials
+<br>
+<b>extruder_assembly.pdf </b>......... Extruder assembly diagrams
