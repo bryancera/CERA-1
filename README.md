@@ -1,5 +1,6 @@
 # CERA-1
 <b>CERA-1, the Clay-Extruding Robotic Assistant</b>
+Created by Bryan Cera, 2020
 
 The CERA-1 is a mechanical paste extruder and 3D printer framework developed for 3D printing in clay. 
 It was designed as a modification to existing 3D printer or CNC frameworks.
